@@ -1,4 +1,4 @@
-# DS 5.1 Code Along - Linear Regression
+# DS 6.1 Code Along - Data Wrangling and Encoding
 
 ## Set Up
 
