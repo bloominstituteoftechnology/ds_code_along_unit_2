@@ -1,4 +1,4 @@
-# DS 5.2 Code Along - Feature Selection and Ridge Regression
+# DS 5.2 - Feature Selection and Ridge Regression
 
 ## Set Up
 
