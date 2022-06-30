@@ -1,4 +1,4 @@
-# DS 5.1 Code Along - Linear Regression
+# DS 5.1 - Linear Regression
 
 ## Set Up
 
