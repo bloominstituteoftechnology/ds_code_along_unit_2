@@ -5,7 +5,7 @@
 - To use these notebooks on Google Colab, you will need to download or clone the repository and upload the specific notebook to Colab.
 - An easier approach is to use the [Open in Colab extension](https://chrome.google.com/webstore/detail/open-in-colab/iogfkhleblhcpcekbiedikdehleodpjo?hl=en). (You will need to use the [Google Chrome browser](https://www.google.com/chrome/))
 
-From here, you can navigate to the specific [Lesson Notebook](https://github.com/bloominstituteoftechnology/ds_code_along_unit_2/blob/main/DS_5.1_Linear_Regression/starter_notebook/DS_5.1-Learner.ipynb) and open the notebook Google Colab with the extension.
+From here, you can navigate to the specific [Lesson Notebook](https://github.com/bloominstituteoftechnology/ds_code_along_unit_2/blob/main/DS_5.2_Feature_Selection_and_RIdge_Regression/starter_notebook/DS_5.2-Learner.ipynb) and open the notebook Google Colab with the extension.
 
 Remember to **Copy to Drive** to have your own saved copy.
 
