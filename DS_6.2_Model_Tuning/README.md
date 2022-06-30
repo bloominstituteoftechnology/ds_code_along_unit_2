@@ -1,4 +1,4 @@
-# DS 6.2 Code Along - Model Tuning
+# DS 6.2 - Model Tuning
 
 ## Set Up
 
