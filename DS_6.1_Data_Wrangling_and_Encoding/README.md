@@ -1,4 +1,4 @@
-# DS 6.1 Code Along - Data Wrangling and Encoding
+# DS 6.1 - Data Wrangling and Encoding
 
 ## Set Up
 
