@@ -1,6 +1,6 @@
-# Learner Facing Code-Along Repo
+# Learner Facing Code-Along Repo for DS Unit 2
 
-This repo contain the following information for each code-along:
+This repo contain the following information for each code-along in DS Unit 2:
 
 - **data**: The datasets used in the Code-Along
 - **starter_notebook**: Colab Notebook used for the Code-Along without the solutions
